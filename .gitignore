@@ -1,0 +1,27 @@
+# Binaries
+calypso.exe
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test
+test/
+
+# Config (generated at runtime)
+.calypso/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Docs (local-only reference, not pushed)
+CALYPSO-REVIEW.md
+BLUEPRINT.md
+ascii.txt
+
+# OS
+Thumbs.db
+.DS_Store
